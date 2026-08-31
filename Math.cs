@@ -4,7 +4,9 @@ using System.Text;
 
 namespace branching_strategi
 {
-    internal class Math
+    public class Math
     {
+        public int Multiplication(int a, int b)
+        {  return a * b; }
     }
 }
