@@ -11,5 +11,12 @@ namespace branching_strategi
             return tal.Average();
         }  
 
+        public double Mudolo(double a, double b)
+        {
+            double result = a % b;
+            return result;
+        }
+
+
     }
 }
