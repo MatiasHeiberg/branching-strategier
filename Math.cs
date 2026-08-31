@@ -6,5 +6,19 @@ namespace branching_strategi
 {
     internal class Math
     {
+
+
+        public double divide(double a, double b)
+        {
+            double result = a / b;
+            return result;
+            
+        }
+    
+
+
+
+
+
     }
 }
