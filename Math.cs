@@ -6,5 +6,12 @@ namespace branching_strategi
 {
     internal class Math
     {
+
+        public double Mudolo(double a, double b)
+        {
+            return a % b;
+        }
+
+
     }
 }
