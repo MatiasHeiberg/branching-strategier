@@ -1,6 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+
+namespace branching_strategi
+{
+    public class Math
+    {
+        public int Multiplication(int a, int b)
+        {  return a * b; }
 using System.Linq;
 namespace branching_strategi
 {
