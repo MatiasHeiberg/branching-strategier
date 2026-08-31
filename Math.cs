@@ -6,6 +6,10 @@ namespace branching_strategi
 {
     public class Math
     {
+        public double SquareRoot(double a)
+        {
+            return System.Math.Sqrt(a);
+        }
         public int power_nth (int @base, int exponent)
         {
             int result = @base;
