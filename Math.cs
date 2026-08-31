@@ -9,7 +9,8 @@ namespace branching_strategi
 
         public double Mudolo(double a, double b)
         {
-            return a % b;
+            double result = a % b;
+            return result;
         }
 
 
