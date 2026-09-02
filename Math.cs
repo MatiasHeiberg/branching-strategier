@@ -2,6 +2,11 @@
 {
     public class Math
     {
+        // JEG FUCKER LIGE MERGE OP
+        public void test()
+        {
+            // JDIWDIJWAIDJWIDJAIDJIDJWD
+        }
         public int Multiplication(int a, int b)
         { return a * b; }
 
