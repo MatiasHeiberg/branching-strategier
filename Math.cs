@@ -1,10 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace branching_strategi
+﻿namespace branching_strategi
 {
     internal class Math
     {
+        // JEG FUCKER LIGE MERGE OP
+        public void test()
+        {
+            // JDIWDIJWAIDJWIDJAIDJIDJWD
+        }
     }
 }
